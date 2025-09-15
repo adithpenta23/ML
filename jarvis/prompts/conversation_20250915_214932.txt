@@ -1,0 +1,31 @@
+AI: Hello, how can I assist you today?
+User: what is the weather in Hyderabad
+AI: <think>
+Okay, the user is asking for the current weather in Hyderabad. Let me think about how to approach this.
+
+First, I need to check if I can access real-time weather data. From what I remember, my training data is up to October 2023, so I don't have real-time internet access. That means I can't provide live weather updates. I should inform the user that I can't access current weather information.
+
+But maybe I can give some general information about Hyderabad's typical weather. Hyderabad has a tropical wet and dry climate, right? So, it's hot and dry most of the year, with high temperatures during the day and cooler nights. The monsoon season is usually from July to September. Depending on the time of year, the weather can vary. For example, in summer (March to May), temperatures can be quite high, sometimes exceeding 40°C. During winter (November to February), it's more pleasant with temperatures around 20-30°C.
+
+I should mention that the best way to get accurate current weather is to use a weather app or website like AccuWeather, Weather.com, or the local meteorological department's site. Maybe suggest checking those sources for the latest updates.
+
+Wait, let me verify if my information about Hyderabad's climate is correct. Yes, it's a tropical savanna climate with a distinct wet season. The average annual temperature is around 27°C. The city experiences high humidity, especially during the monsoon. So, in summer, it's very hot and humid, and in winter, it's more comfortable.
+
+I should also note that the weather can be quite variable depending on the season. If the user is planning to visit or needs to know for the next few days, advising them to check a reliable weather service is the best approach.
+
+Let me structure this response: start by stating that I can't provide real-time data, then give general climate info, mention the typical seasons and temperatures, and suggest using a weather service for current conditions. That should cover it without giving outdated or incorrect info.
+</think>
+
+I currently don't have access to real-time weather data, but I can provide general information about Hyderabad's climate and suggest how to check the latest forecast:
+
+### **Hyderabad's Typical Weather**  
+Hyderabad has a **tropical wet and dry climate** with:  
+- **Hot summers** (March–May): Daytime temperatures often exceed **35–40°C**, with high humidity.  
+- **Monsoon season** (July–September): Heavy rainfall, with temperatures around **25–30°C**.  
+- **Mild winters** (November–February): Pleasant weather, **15–25°C**, with cool nights.  
+
+### **How to Check Current Conditions**  
+For the most accurate and up-to-date weather:  
+1. Use a weather app like **AccuWeather**, **Weather.com**,
+User: exit
+AI: Goodbye!
